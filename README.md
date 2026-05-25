@@ -29,6 +29,18 @@ Turning ideas into projects through AI, Machine Learning and Web Development �
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=pratapashanmukhi&theme=tokyonight&hide_border=true"/>
+
+</p>
+
 ## 🛠 Tech Stack
 
 ### Languages
