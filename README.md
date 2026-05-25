@@ -29,17 +29,31 @@ Turning ideas into projects through AI, Machine Learning and Web Development �
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=pratapashanmukhi&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=pratapashanmukhi&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratapashanmukhi&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pratapashanmukhi&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
 
 ## 🛠 Tech Stack
 
