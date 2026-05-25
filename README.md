@@ -1,94 +1,117 @@
-<h1 align="center">Hi 👋, I'm Shanmukhi Pratapa</h1>
+<h1 align="center">Hi 👋,
+ I'm Shanmukhi Pratapa</h1>
 
 <h3 align="center">
-AI/ML Enthusiast • CSE-AIML Student • Open Source Learner
+B.Tech CSE (AI & ML) Student | AI Enthusiast | Full Stack Learner
 </h3>
 
 <p align="center">
-Building intelligent systems, exploring AI, and turning ideas into real projects.
+Turning ideas into projects through AI, Machine Learning and Web Development 🚀
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;CSE+Student+at+VIT-AP;Open+Source+Learner;Building+Projects+with+AI+%26+Web+Tech;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;VIT-AP+CSE+(AI%2FML)+Student;Open+Source+Learner;Building+Projects+with+Python+and+React;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 🎓 B.Tech CSE (AI & ML) student at **VIT-AP University**
 
-🤖 Interested in **Artificial Intelligence, Machine Learning, NLP and Generative AI**
+🧠 Interested in **Artificial Intelligence, NLP, Machine Learning and Generative AI**
 
-🌱 Exploring real-world applications through projects and continuous learning
+💻 Exploring Full Stack Development and practical AI applications
 
-💡 Passionate about solving practical problems using technology
+🌱 Learning by building projects and participating in hackathons
 
-👩‍💻 Interested in Open Source and collaborative development
-
-⚡ Turning curiosity into code, because overthinking alone does not compile
+⚡ I build things when curiosity wins against overthinking
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp"/>
 </p>
 
----
-
-### 🧠 AI / ML
+### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
 - Machine Learning  
-- Deep Learning  
 - NLP  
+- Deep Learning  
 - Generative AI  
-- LLM Applications  
-- Prompt Engineering  
+- Streamlit  
+- Scikit Learn  
 
 ---
 
-### 🌐 Web Development
+### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vite"/>
 </p>
 
 ---
 
-### ⚙️ Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,linux"/>
 </p>
 
 ---
 
-# 🏗️ Projects
+# 🚀 Featured Projects
 
-### 🧠 AI & ML Projects
+### 🌿 Leaf Detection System
 
-- Built intelligent applications using AI/ML concepts  
-- Exploring LLM-powered systems and practical implementations  
-- Interested in NLP and real-world automation systems  
+Built a machine learning system for detecting and analyzing leaves using image processing techniques.
 
----
-
-### 🌐 Web Projects
-
-- Developing responsive applications with modern technologies  
-- Learning backend integration and deployment workflows  
+Tech: JavaScript • ML
 
 ---
 
-# 📊 GitHub Stats
+### 😏 Sarcasm Detection System
+
+NLP-based sarcasm classification dashboard with **85%+ accuracy** using real-time machine learning.
+
+Tech:
+Python • NLP • ML
+
+---
+
+### 🎬 Movie Booking App
+
+Movie booking application developed using **React + Vite + Node.js** for APPTHETICS 3.0 Hackathon.
+
+---
+
+### 📊 Infrastructure Early Warning System
+
+Machine learning model for predicting infrastructure failures using predictive analytics.
+
+---
+
+### 🤖 Py-Astra
+
+AI-powered Python tutor with voice interaction using speech recognition and text-to-speech features.
+
+---
+
+### ✅ Streamlit Todo App
+
+Simple task management application built using Python and Streamlit.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -102,9 +125,9 @@ Building intelligent systems, exploring AI, and turning ideas into real projects
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/pratapashanmukhi">GitHub</a> •
 <a href="https://www.linkedin.com/in/shanmukhi-pratapa-6a4484336">LinkedIn</a> •
@@ -115,5 +138,5 @@ Building intelligent systems, exploring AI, and turning ideas into real projects
 ---
 
 <p align="center">
-Learning, building, improving, repeating 🚀
+Still learning. Still building. Still debugging things that worked five minutes ago.
 </p>
