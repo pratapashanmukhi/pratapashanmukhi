@@ -1,168 +1,77 @@
-<h1 align="center">Hi 👋,
- I'm Shanmukhi Pratapa</h1>
+# Hi 👋, I'm Shanmukhi Pratapa
 
-<h3 align="center">
-B.Tech CSE (AI & ML) Student | AI Enthusiast | Full Stack Learner
-</h3>
+🎓 B.Tech CSE (AI & ML) Student at VIT-AP University
 
-<p align="center">
-Turning ideas into projects through AI, Machine Learning and Web Development 🚀
-</p>
+💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast;VIT-AP+CSE+(AI%2FML)+Student;Open+Source+Learner;Building+Projects+with+Python+and+React;Always+Learning+Something+New" />
-</p>
+🚀 Building intelligent applications that solve real-world problems.
 
----
-
-## 👩‍💻 About Me
-
-🎓 B.Tech CSE (AI & ML) student at **VIT-AP University**
-
-🧠 Interested in **Artificial Intelligence, NLP, Machine Learning and Generative AI**
-
-💻 Exploring Full Stack Development and practical AI applications
-
-🌱 Learning by building projects and participating in hackathons
-
-⚡ I build things when curiosity wins against overthinking
+🌱 Currently exploring:
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Full Stack Development
+- Open Source Contributions
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=pratapashanmukhi&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratapashanmukhi&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratapashanmukhi&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
+Python | Java | JavaScript | TypeScript | SQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp"/>
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-- Machine Learning  
-- NLP  
-- Deep Learning  
-- Generative AI  
-- Streamlit  
-- Scikit Learn  
-
----
+### AI/ML
+Machine Learning | Deep Learning | Pandas | NumPy | Scikit-Learn
 
 ### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vite"/>
-</p>
-
----
+React | Node.js | Express.js | Vite
 
 ### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,linux"/>
-</p>
+Git | GitHub | VS Code | Jupyter Notebook
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Projects
 
-### 🌿 Leaf Detection System
-
-Built a machine learning system for detecting and analyzing leaves using image processing techniques.
-
-Tech: JavaScript • ML
-
----
-
-### 😏 Sarcasm Detection System
-
-NLP-based sarcasm classification dashboard with **85%+ accuracy** using real-time machine learning.
-
-Tech:
-Python • NLP • ML
-
----
+### 🏗 Infrastructure Early Warning System
+Machine Learning project for predicting infrastructure failures using data-driven analysis.
 
 ### 🎬 Movie Booking App
+Full-stack application built using React, Vite, Node.js and TypeScript.
 
-Movie booking application developed using **React + Vite + Node.js** for APPTHETICS 3.0 Hackathon.
-
----
-
-### 📊 Infrastructure Early Warning System
-
-Machine learning model for predicting infrastructure failures using predictive analytics.
+### 🌿 Leaf Detection System
+AI-powered system for plant leaf detection and analysis.
 
 ---
 
-### 🤖 Py-Astra
+## 📊 GitHub Stats
 
-AI-powered Python tutor with voice interaction using speech recognition and text-to-speech features.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact)
 
-### ✅ Streamlit Todo App
-
-Simple task management application built using Python and Streamlit.
+![Streak Stats](https://streak-stats.demolab.com?user=pratapashanmukhi)
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratapashanmukhi&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=tokyonight"/>
-
-</p>
+- AI & ML Student @ VIT-AP
+- Open Source Contributor
+- Hackathon Participant
+- Building Real-World AI Solutions
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="center">
+[LinkedIn](https://www.linkedin.com/in/shanmukhi-pratapa-6a4484336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-<a href="https://github.com/pratapashanmukhi">GitHub</a> •
-<a href="https://www.linkedin.com/in/shanmukhi-pratapa-6a4484336">LinkedIn</a> •
-<a href="mailto:pratapashanumukhi@gmail.com">Email</a>
+📧 Email: pratapashanumukhi@gmail.com 
 
-</p>
+Outlook:- 
+pratapashanmukhi@outlook.com
 
 ---
 
-<p align="center">
-Still learning. Still building. Still debugging things that worked five minutes ago.
-</p>
+⭐ "Turning data into intelligent solutions."
