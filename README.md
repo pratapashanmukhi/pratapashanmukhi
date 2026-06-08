@@ -46,9 +46,9 @@ AI-powered system for plant leaf detection and analysis.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=radical)
 
 ![Streak Stats](https://streak-stats.demolab.com?user=pratapashanmukhi)
 
