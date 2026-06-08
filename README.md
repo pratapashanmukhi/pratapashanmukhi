@@ -1,53 +1,36 @@
-<h1 align="center">Hi 👋, I'm Shanmukhi Pratapa</h1><h3 align="center">AI & ML Student at VIT-AP University | Python Developer | Machine Learning & Generative AI Enthusiast</h3><p align="center">
-<img src="https://komarev.com/ghpvc/?username=pratapashanmukhi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
-</p><p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratapashanmukhi&theme=algolia&row=1&column=6" />
-</p>---
 
-🚀 About Me
+<h1 align="center">Hi 👋, I'm Shanmukhi Pratapa</h1>
+<h3 align="center">AI & ML Student at VIT-AP | Python Developer | Machine Learning & Generative AI Enthusiast</h3>
 
-- 🔭 Currently working on Infrastructure Early Warning System
-- 🌱 Learning Deep Learning, Generative AI, MLOps & Data Science
-- 👯 Looking to collaborate on AI/ML Projects & Open Source
-- 💬 Ask me about Python, Machine Learning, Data Science & AI
-- 📫 Reach me at: pratapashanumukhi@gmail.com
-- 📄 Resume: Your Resume Link
-- 📷 Fun Fact: Photography is one of my favorite creative hobbies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapashanmukhi&label=Profile%20views&color=0e75b6&style=flat" alt="pratapashanmukhi" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratapashanmukhi" alt="pratapashanmukhi" /></a> </p>
 
-🌐 Connect With Me
+- 🔭 I’m currently working on [Infrastructure Early Warning System](https://github.com/pratapashanmukhi/Infrastructure-Early-Warning-System)
 
+- 🌱 I’m currently learning **Deep Learning, Generative AI, MLOps, Data Science**
+
+- 👯 I’m looking to collaborate on **AI/ML Projects and Open Source**
+
+- 💬 Ask me about **Python, Machine Learning, AI projects, Data Science**
+
+- 📫 How to reach me **pratapashanumukhi@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1dfAcqVY1KUfrxmCK0nxTpZjFCyEjlUqy/view?usp=drivesdk](https://drive.google.com/file/d/1dfAcqVY1KUfrxmCK0nxTpZjFCyEjlUqy/view?usp=drivesdk)
+
+- ⚡ Fun fact **I think I had beautiful knowledge in photography**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a><a href="https://www.topcoder.com/members/522502">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
-</a>
-</p>---
+<a href="https://linkedin.com/in/shanmukhi pratapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanmukhi pratapa" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/522502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="522502" height="30" width="40" /></a>
+</p>
 
-💻 Languages & Technologies
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></p>---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratapashanmukhi&show_icons=true&locale=en&layout=compact" alt="pratapashanmukhi" /></p>
 
-📌 Featured Projects
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&locale=en" alt="pratapashanmukhi" /></p>
 
-🚨 Infrastructure Early Warning System
-
-🎬 Movie Booking Application
-
-🌿 Leaf Detection System
-
----
-
-📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight" />
-</p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=tokyonight" />
-</p><p align="center">
-<img src="https://streak-stats.demolab.com?user=pratapashanmukhi&theme=tokyonight" />
-</p>---
-
-<h3 align="center">⭐ Turning Data into Intelligent Solutions</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratapashanmukhi&" alt="pratapashanmukhi" /></p>
