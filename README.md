@@ -1,77 +1,53 @@
-# Hi 👋, I'm Shanmukhi Pratapa
+<h1 align="center">Hi 👋, I'm Shanmukhi Pratapa</h1><h3 align="center">AI & ML Student at VIT-AP University | Python Developer | Machine Learning & Generative AI Enthusiast</h3><p align="center">
+<img src="https://komarev.com/ghpvc/?username=pratapashanmukhi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+</p><p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pratapashanmukhi&theme=algolia&row=1&column=6" />
+</p>---
 
-🎓 B.Tech CSE (AI & ML) Student at VIT-AP University
+🚀 About Me
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
-
-🚀 Building intelligent applications that solve real-world problems.
-
-🌱 Currently exploring:
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Full Stack Development
-- Open Source Contributions
-
----
-
-## 🚀 Tech Stack
-
-### Languages
-Python | Java | JavaScript | TypeScript | SQL
-
-### AI/ML
-Machine Learning | Deep Learning | Pandas | NumPy | Scikit-Learn
-
-### Web Development
-React | Node.js | Express.js | Vite
-
-### Tools
-Git | GitHub | VS Code | Jupyter Notebook
+- 🔭 Currently working on Infrastructure Early Warning System
+- 🌱 Learning Deep Learning, Generative AI, MLOps & Data Science
+- 👯 Looking to collaborate on AI/ML Projects & Open Source
+- 💬 Ask me about Python, Machine Learning, Data Science & AI
+- 📫 Reach me at: pratapashanumukhi@gmail.com
+- 📄 Resume: Your Resume Link
+- 📷 Fun Fact: Photography is one of my favorite creative hobbies
 
 ---
 
-## 📌 Featured Projects
+🌐 Connect With Me
 
-### 🏗 Infrastructure Early Warning System
-Machine Learning project for predicting infrastructure failures using data-driven analysis.
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a><a href="https://www.topcoder.com/members/522502">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
+</a>
+</p>---
 
-### 🎬 Movie Booking App
-Full-stack application built using React, Vite, Node.js and TypeScript.
+💻 Languages & Technologies
 
-### 🌿 Leaf Detection System
-AI-powered system for plant leaf detection and analysis.
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></p>---
 
----
+📌 Featured Projects
 
-## 📊 GitHub Stats
+🚨 Infrastructure Early Warning System
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true)
+🎬 Movie Booking Application
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact)
-
-![Streak Stats](https://streak-stats.demolab.com?user=pratapashanmukhi)
-
----
-
-## 🏆 Achievements
-
-- AI & ML Student @ VIT-AP
-- Open Source Contributor
-- Hackathon Participant
-- Building Real-World AI Solutions
+🌿 Leaf Detection System
 
 ---
 
-## 🤝 Connect With Me
+📊 GitHub Stats
 
-[LinkedIn](https://www.linkedin.com/in/shanmukhi-pratapa-6a4484336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight" />
+</p><p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=tokyonight" />
+</p><p align="center">
+<img src="https://streak-stats.demolab.com?user=pratapashanmukhi&theme=tokyonight" />
+</p>---
 
-📧 Email: pratapashanumukhi@gmail.com 
-
-Outlook:- 
-pratapashanmukhi@outlook.com
-
----
-
-⭐ "Turning data into intelligent solutions."
+<h3 align="center">⭐ Turning Data into Intelligent Solutions</h3>
