@@ -1,723 +1,239 @@
-<!-- Animated Header -->
+<!-- ====================================================== -->
+<!--                 SHANMUKHI'S GITHUB PROFILE              -->
+<!--                 DARK ANIME DEVELOPER THEME              -->
+<!-- ====================================================== -->
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=260&section=header&text=Pratapa%20Shanmukhi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
-</p>
+<!-- ===================== HEADER ========================== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Pratapa Shanmukhi
+<img width="100%" height="220"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,30:172333,70:26394B,100:101820&height=220&section=header&text=SHANMUKHI%20PRATAPA&fontSize=48&fontColor=E2E8F0&fontAlignY=38&desc=AI%20%26%20MACHINE%20LEARNING%20DEVELOPER&descSize=15&descAlignY=60&animation=fadeIn"/>
 
-### AI & Machine Learning Engineer •  Open Source Contributor
+<br/>
 
-<p>
-Building intelligent software, scalable backend systems, and practical AI solutions that solve real-world problems.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=750&lines=Hello%2C+World!+I'm+Shanmukhi+%E2%9C%A8;Exploring+Artificial+Intelligence;Building+Intelligent+Applications;Learning+Machine+Learning;Exploring+Generative+AI+%26+AI+Agents;Open+Source+Contributor" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-334155?style=for-the-badge"/>
+
+<br/><br/>
 
 </div>
 
 ---
 
-<div align="center">
+<!-- ===================== ABOUT ME ======================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Backend+Developer;Open+Source+Contributor;Python+Developer;Building+Production-Ready+AI+Applications;Learning+Never+Stops+🚀" />
-
-</div>
-
----
+<h2 align="center">01. &nbsp; ABOUT ME</h2>
 
 <div align="center">
 
-<a href="https://github.com/pratapashanmukhi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shanmukhi-pratapa-6a4484336">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:pratapashanumukhi@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 𖹭 Building intelligent things, one project at a time.
 
 </div>
-
----
-
-<div align="center">
-
-<img src="./Assets/output.gif" width="900"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-🎓 **B.Tech CSE (AI & ML)** at **VIT-AP University**
-
-🤖 AI & Machine Learning enthusiast passionate about solving real-world problems.
-
-⚙️ Backend-focused developer building scalable APIs and intelligent applications.
-
-🚀 Open Source Contributor & Campus Ambassador at **GirlScript Summer of Code 2026**.
-
-💡 Love working on Machine Learning, AI Agents, Full Stack Development and Cloud technologies.
-
-🌱 Continuously learning modern AI frameworks, scalable backend architecture, and production deployment.
-
----
-
-# 🚀 Currently Working On
-
-- 🤖 Building **Py Astra**, an AI-powered Python Voice Assistant
-- 🚨 Infrastructure Early Warning System using Machine Learning
-- 🎬 CineVerse Movie Booking Platform
-- 🧠 Large Language Models (LLMs)
-- ⚡ FastAPI & Django backend development
-- ☁️ AWS Cloud deployment
-- 🐳 Docker containerization
-- 📊 PostgreSQL & MongoDB
-- 🔥 Retrieval-Augmented Generation (RAG)
-- 🗄️ Vector Databases
-- 🧩 System Design
-- 🌍 Contributing to Open Source through GSSoC
-
----
-
-# 🏆 Open Source Highlights
-
-<div align="center">
-
-| Achievement | Details |
-|-------------|---------|
-| 🌍 Global Rank | **#566** |
-| 📈 Leaderboard | **Top 2% among 43,000+ participants** |
-| 🚀 Score | **5001+ Points** |
-| 🔥 PRs Merged | **11** |
-| 🏅 Badges Earned | **15** |
-| 📦 Projects Contributed | **4 Major Repositories** |
-| 🎖️ Role | **Contributor & Campus Ambassador** |
-| ⚡ Best Weekly Score | **570 Points** |
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-```yaml
-Artificial Intelligence:
-  ✔ AI Agents
-  ✔ Large Language Models
-  ✔ Prompt Engineering
-  ✔ LangChain
-  ✔ RAG Pipelines
-  ✔ Vector Databases
-
-Backend:
-  ✔ Django
-  ✔ FastAPI
-  ✔ REST APIs
-  ✔ System Design
-  ✔ Microservices
-
-Cloud:
-  ✔ AWS
-  ✔ Docker
-  ✔ CI/CD
-  ✔ Deployment
-
-Databases:
-  ✔ PostgreSQL
-  ✔ MongoDB
-  ✔ Redis
-```
-
----
-
-# 💬 Ask Me About
-
-```text
-🐍 Python
-
-⚙️ Django
-
-🚀 FastAPI
-
-🤖 Machine Learning
-
-🧠 Artificial Intelligence
-
-💬 Large Language Models
-
-🛠 Prompt Engineering
-
-📦 Vector Databases
-
-🌐 React
-
-🗄 PostgreSQL
-
-🍃 MongoDB
-
-🐳 Docker
-
-☁️ AWS
-
-📊 Data Analytics
-
-📈 Data Science
-
-🌍 Open Source
-
-🏗 System Design
-```
-
----
-
-<div align="center">
-
-### ⭐ Turning ideas into intelligent software, one commit at a time.
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-## ⚙️ Backend Development
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express&perline=6"/>
-
----
-
-## 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,bootstrap,vite&perline=8"/>
-
----
-
-## ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,nginx&perline=7"/>
-
----
-
-## 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&perline=5"/>
-
----
-
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-3B82F6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vector%20Databases-00C853?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,figma,git,jupyter,anaconda&perline=7"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🚨 Infrastructure Early Warning System
-
-Machine Learning powered infrastructure failure prediction platform using **Random Forest**, **Feature Engineering** and **Streamlit Dashboard**.
-
-**Highlights**
-
-- 📈 Real-time prediction dashboard
-- 🤖 Machine Learning models
-- 📊 Infrastructure risk analytics
-- ⚡ Interactive visualization
-
-**Tech**
-
-`Python` `Streamlit` `Scikit-Learn` `Pandas`
-
-</td>
-
-<td width="50%">
-
-## 🤖 Py Astra
-
-An AI-powered Python Voice Assistant capable of understanding speech, answering questions and helping users learn Python interactively.
-
-**Highlights**
-
-- 🎙 Speech Recognition
-- 🗣 Text-to-Speech
-- 🧠 Generative AI
-- 💬 Natural Conversations
-
-**Tech**
-
-`Python` `AI` `SpeechRecognition`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🎬 CineVerse
-
-Modern Movie Booking platform inspired by BookMyShow featuring beautiful UI and responsive design.
-
-**Highlights**
-
-- 🎟 Movie Booking
-- 📱 Responsive Design
-- ⚡ Fast UI
-- 🎨 Clean Interface
-
-**Tech**
-
-`React`
-
-`TypeScript`
-
-`TailwindCSS`
-
-`Vite`
-
-</td>
-
-<td>
-
-## 😏 Sarcasm Detection
-
-Natural Language Processing project capable of identifying sarcasm with over **85% accuracy**.
-
-**Highlights**
-
-- 🤖 NLP Pipeline
-- 📊 Interactive Dashboard
-- 🧠 Machine Learning
-- 📈 High Accuracy
-
-**Tech**
-
-`Python`
-
-`Scikit-Learn`
-
-`NLP`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## ❤️ Heart Disease Prediction
-
-Machine Learning healthcare project predicting heart disease using classification algorithms.
-
-**Models**
-
-- Random Forest
-- Logistic Regression
-- Decision Tree
-
-</td>
-
-<td>
-
-## 🌍 World Happiness Report EDA
-
-Exploratory Data Analysis uncovering insights from the World Happiness dataset using modern visualization techniques.
-
-**Tech**
-
-`Python`
-
-`Pandas`
-
-`Matplotlib`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 💼 Experience
-
-## 🧑‍💻 AI & Machine Learning Intern
-
-### Pluto Academy
-
-- 🤖 Developed Machine Learning models
-- 📊 Performed Exploratory Data Analysis
-- ❤️ Built Heart Disease Prediction System
-- 📈 Worked on real-world datasets
-- 🐍 Python development
-
----
-
-## ☕ Java Programming Intern
-
-### CODTECH IT Solutions
-
-- Developed Java-based applications
-- Worked on File Handling
-- Built REST API Client
-- Strengthened OOP concepts
-
----
-
-# 🌍 Open Source Contributions
-
-## 🏆 GirlScript Summer of Code 2026
-
-### 🚀 Contributor & Campus Ambassador
-
-✨ **Highlights**
-
-- 🌍 Ranked **Top 2% Globally**
-- 🏅 Global Rank **#566**
-- 📈 **5001+ Leaderboard Points**
-- 🔥 **11 Merged Pull Requests**
-- 📦 Contributed to **4 Open Source Projects**
-- 🎖 Earned **15 Official Badges**
-
-### Major Contributions
-
-- ⚡ EaseMotion CSS
-- 🤖 StorySpark AI
-- 🧠 Waggle MCP
-- 📚 Learnova
-
-Worked on:
-
-- Accessibility improvements
-- AI Features
-- Backend Development
-- Testing
-- UI Enhancements
-- Performance Optimization
-
----
-
-# 🏅 Leadership & Community
-
-<div align="center">
-
-| Role | Organization |
-|------|--------------|
-| 🎖 Campus Ambassador | GirlScript Summer of Code 2026 |
-| ☁️ Google Cloud Arcade Facilitator | Google Cloud |
-| ♟ Campus Ambassador | Zapp Chess |
-| 🎨 Design Team Co-Lead | Hallyu Club |
-| 🤝 Internal Affairs | CSI VIT-AP |
-
-</div>
-
----
-
-# 🎓 Education
-
-### 🎓 VIT-AP University
-
-**Bachelor of Technology**
-
-Computer Science & Engineering (Artificial Intelligence & Machine Learning)
-
-📍 Andhra Pradesh, India
-
-CGPA **7.69**
-
----
-
-# 📜 Featured Certifications
-
-<div align="center">
-
-| 🏅 Certification | Status |
-|-----------------|--------|
-| Oracle Cloud Infrastructure AI Foundations Associate | ✅ |
-| Google Gemini Certified Student | ✅ |
-| Kaggle Google AI Agents | ✅ |
-| Introduction to Artificial Intelligence | ✅ |
-| Appthetics 3.0 Hackathon | ✅ |
-
-</div>
-
----
-
-# ⭐ Featured Repositories
-
-🌟 Infrastructure Early Warning System
-
-🤖 Py Astra
-
-🎬 CineVerse
-
-😏 Sarcasm Detection
-
-❤️ Heart Disease Prediction
-
-🌍 World Happiness EDA
-
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pratapashanmukhi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pratapashanmukhi&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratapashanmukhi&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pratapashanmukhi/pratapashanmukhi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
-> **Note:** You'll need to create a GitHub Action to generate this snake animation automatically.
-
----
-
-# 🏅 Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GSSoC_2026-Top_2%25-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Global_Rank-566-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PRs_Merged-11-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Campus_Ambassador-GSSoC-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google_Cloud-Arcade_Facilitator-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OCI-AI_Foundations-red?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google-Gemini_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-</div>
-
----
-
-# 📈 2026 Highlights
-
-<div align="center">
-
-| Achievement | Value |
-|-------------|------:|
-| 🌍 Global Rank | **#566** |
-| 🏆 Leaderboard | **Top 2%** |
-| ⭐ Score | **5001+** |
-| 🔥 Pull Requests | **11** |
-| 📦 Projects | **4** |
-| 🏅 Badges | **15** |
-| ⚡ Weekly Streak | **4 Weeks** |
-| 🎖️ Roles | **Contributor & Ambassador** |
-
-</div>
-
----
-
-# 💡 Current Goals
-
-```text
-🚀 Build production-ready AI applications
-
-🤖 Explore Agentic AI
-
-🧠 Master Large Language Models
-
-⚙️ Design scalable backend systems
-
-☁️ Deploy cloud-native applications
-
-📚 Contribute consistently to Open Source
-
-🏗️ Learn advanced System Design
-
-🌍 Collaborate with global developer communities
-```
-
----
-
-# 💭 Developer Quote
-
-<div align="center">
-
-> **"Turning ideas into intelligent systems, one commit at a time."**
-
-*"Code with curiosity. Build with purpose. Learn continuously."*
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/pratapashanmukhi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shanmukhi-pratapa-6a4484336">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:pratapashanumukhi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pratapashanmukhi&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-# ❤️ Support My Work
-
-<div align="center">
-
-⭐ Star repositories if they help you.
-
-🍴 Fork projects to build upon them.
-
-🤝 Collaborate on Open Source.
-
-💬 Connect for AI, Backend, or Open Source discussions.
-
-</div>
-
----
-
-# ⚡ Fun Fact
 
 ```python
-while(alive):
-    learn()
-    build()
-    contribute()
-    improve()
-```
+class Shanmukhi:
 
----
+    def __init__(self):
 
+        self.name = "Shanmukhi Pratapa"
+
+        self.education = {
+            "degree": "B.Tech",
+            "branch": "Computer Science Engineering",
+            "specialization": "Artificial Intelligence & Machine Learning",
+            "university": "VIT-AP University",
+            "year": "3rd Year",
+            "cgpa": 7.69
+        }
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "Large Language Models",
+            "AI Agents",
+            "Natural Language Processing",
+            "Computer Vision"
+        ]
+
+        self.currently_learning = [
+            "Advanced Machine Learning",
+            "Generative AI",
+            "Retrieval Augmented Generation",
+            "AI Agent Development",
+            "Backend Development"
+        ]
+
+        self.goals = [
+            "Build practical AI applications",
+            "Contribute to Open Source",
+            "Develop intelligent systems",
+            "Become an AI Engineer"
+        ]
+
+    def introduce(self):
+        return "Turning ideas into intelligent solutions."
+
+
+me = Shanmukhi()
+
+print(me.introduce())
 <div align="center">
 
-### 🚀 Thanks for visiting my profile!
-
-*"Building intelligent software, creating meaningful impact, and growing one commit at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=140&section=footer"/>
+Curious mind. Continuous learner. Passionate builder.
 
 </div>
+<!-- ===================== WHAT I DO ======================= --> <h2 align="center">02. &nbsp; WHAT I DO</h2> <table> <tr> <td width="50%">
+🧠 Artificial Intelligence
+Machine Learning
+Deep Learning
+Generative AI
+Large Language Models
+AI-powered applications
+Intelligent automation
+</td> <td width="50%">
+💻 Software Development
+Python Development
+Backend Development
+REST API Development
+Full Stack Applications
+Database Management
+Software Engineering
+</td> </tr> <tr> <td width="50%">
+🔬 Research & Exploration
+Natural Language Processing
+Computer Vision
+Model Evaluation
+Data Analysis
+AI Experimentation
+</td> <td width="50%">
+🌐 Open Source
+Open Source Contributions
+GitHub Collaboration
+Community Engagement
+Hackathons
+Technical Events
+</td> </tr> </table>
+<!-- ===================== TECH STACK ====================== --> <h2 align="center">03. &nbsp; TECH STACK</h2> <div align="center">
+Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />
+
+<br/><br/>
+
+AI / ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+<br/><br/>
+
+Web Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi&theme=dark" />
+
+<br/><br/>
+
+Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws&theme=dark" />
+
+<br/><br/>
+
+Developer Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,docker,linux&theme=dark" /> </div>
+<!-- ===================== AI INTERESTS ==================== --> <h2 align="center">04. &nbsp; AI & MACHINE LEARNING INTERESTS</h2> <div align="center">
+Domain	Areas of Exploration
+🧠 Machine Learning	Classification, Regression, Clustering
+🤖 Deep Learning	Neural Networks, CNNs, Model Training
+✨ Generative AI	LLMs, Prompt Engineering
+🔍 RAG	Embeddings, Vector Databases, Retrieval
+🧩 AI Agents	Tool Calling, Agentic Workflows
+💬 NLP	Text Classification, Sentiment Analysis
+👁️ Computer Vision	Image Classification, Object Detection
+</div>
+<!-- ===================== PROJECTS ======================== --> <h2 align="center">05. &nbsp; FEATURED PROJECTS</h2> <div align="center">
+
+Some of the projects I've explored and developed.
+
+</div> <table> <tr> <td width="50%"> <h3 align="center">🏗️ Infrastructure Early Warning System</h3> <p align="center"> Machine Learning-based system designed to predict potential infrastructure failures. </p> <p align="center"> <img src="https://img.shields.io/badge/Machine%20Learning-334155?style=flat-square"/> <img src="https://img.shields.io/badge/Python-334155?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-334155?style=flat-square"/> </p> <p align="center"> <a href="https://github.com/pratapashanmukhi/Infrastructure-Early-Warning-System"> <b>View Repository →</b> </a> </p> </td> <td width="50%"> <h3 align="center">🍃 Leaf Detection System</h3> <p align="center"> A computer vision-oriented project focused on plant leaf disease detection. </p> <p align="center"> <img src="https://img.shields.io/badge/Computer%20Vision-334155?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-334155?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square"/> </p> <p align="center"> <a href="https://github.com/pratapashanmukhi/Leaf-Detection-System"> <b>View Repository →</b> </a> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🎙️ Py Astra</h3> <p align="center"> An AI-powered Python voice assistant exploring speech recognition and conversational interaction. </p> <p align="center"> <img src="https://img.shields.io/badge/Python-334155?style=flat-square"/> <img src="https://img.shields.io/badge/Voice%20AI-334155?style=flat-square"/> <img src="https://img.shields.io/badge/Automation-334155?style=flat-square"/> </p> <p align="center"> <a href="https://github.com/pratapashanmukhi/Py-Astra"> <b>View Repository →</b> </a> </p> </td> <td width="50%"> <h3 align="center">🎬 Movie Booking Application</h3> <p align="center"> A movie booking platform developed as a full-stack application. </p> <p align="center"> <img src="https://img.shields.io/badge/React-334155?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square"/> <img src="https://img.shields.io/badge/Node.js-334155?style=flat-square"/> </p> <p align="center"> <a href="https://github.com/pratapashanmukhi/movie-booking-app"> <b>View Repository →</b> </a> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">📰 Sarcasm Detection</h3> <p align="center"> An NLP project exploring sarcasm identification in textual data. </p> <p align="center"> <img src="https://img.shields.io/badge/Python-334155?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-334155?style=flat-square"/> <img src="https://img.shields.io/badge/Machine%20Learning-334155?style=flat-square"/> </p> <p align="center"> <a href="https://github.com/pratapashanmukhi/sarcasm-detection-ml"> <b>View Repository →</b> </a> </p> </td> <td width="50%"> <h3 align="center">📊 Data Science Projects</h3> <p align="center"> Exploring data analysis, visualization, feature engineering and predictive modelling. </p> <p align="center"> <img src="https://img.shields.io/badge/Python-334155?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-334155?style=flat-square"/> <img src="https://img.shields.io/badge/EDA-334155?style=flat-square"/> </p> <p align="center"> <a href="https://github.com/pratapashanmukhi?tab=repositories"> <b>Explore Repositories →</b> </a> </p> </td> </tr> </table>
+<!-- ===================== CURRENTLY WORKING ============== --> <h2 align="center">06. &nbsp; CURRENTLY EXPLORING</h2> <div align="center">
+Status	Focus
+📖	Strengthening Machine Learning foundations
+🧠	Exploring Deep Learning
+✨	Learning Generative AI
+🔍	Exploring RAG architectures
+🤖	Building AI-powered applications
+🌐	Contributing to Open Source
+☁️	Exploring Cloud Technologies
+</div>
+<!-- ===================== OPEN SOURCE ==================== --> <h2 align="center">07. &nbsp; OPEN SOURCE JOURNEY</h2> <div align="center">
+GirlScript Summer of Code 2026
+<img src="https://img.shields.io/badge/GSSoC-2026-334155?style=for-the-badge"/>
+
+<br/><br/>
+
+An opportunity to collaborate with developers, contribute to real-world projects and learn through open-source development.
+
+<br/>
+Achievement	Details
+Program	GirlScript Summer of Code 2026
+Role	Contributor & Ambassador
+Focus	Open Source, AI & Agents
+Contributions	Multiple open-source projects
+<br/> <a href="https://github.com/pratapashanmukhi"> <img src="https://img.shields.io/badge/Explore%20My%20Contributions-GitHub-334155?style=for-the-badge&logo=github"/> </a> </div>
+<!-- ===================== EXPERIENCE ====================== --> <h2 align="center">08. &nbsp; LEADERSHIP & EXPERIENCE</h2>
+🏅 HackerRank Campus Crew Lead
+Student community and technical engagement.
+Developer awareness and learning initiatives.
+Promoting coding and problem-solving activities.
+🌱 Open Source Contributor
+Participating in collaborative development.
+Exploring real-world codebases.
+Contributing to community-driven projects.
+🎓 AI & Machine Learning Internship
+
+SmartBridge × APSCHE
+
+Completed a 120-hour AI & Machine Learning internship.
+Gained practical exposure to AI/ML concepts and development.
+<!-- ===================== EDUCATION ====================== --> <h2 align="center">09. &nbsp; EDUCATION</h2> <div align="center">
+VIT-AP University
+
+B.Tech - Computer Science and Engineering
+
+Specialization: Artificial Intelligence & Machine Learning
+
+Current Year: 3rd Year
+
+Current CGPA: 7.69
+
+</div>
+<!-- ===================== CERTIFICATIONS ================= --> <h2 align="center">10. &nbsp; CERTIFICATIONS & LEARNING</h2> <div align="center">
+Certification / Program	Area
+Oracle Cloud Infrastructure Certified Foundations Associate	Cloud Computing
+SmartBridge × APSCHE Internship	AI & Machine Learning
+Other verified technical certifications	Programming / AI / Cloud
+</div>
+<!-- ===================== GITHUB STATISTICS ============== --> <h2 align="center">11. &nbsp; GITHUB STATISTICS</h2> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratapashanmukhi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=64748B&text_color=C9D1D9&rank_icon=github"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=pratapashanmukhi&theme=dark&hide_border=true&background=0D1117&ring=64748B&fire=94A3B8&currStreakLabel=94A3B8"/> </div>
+<!-- ===================== CONTRIBUTION GRAPH ============= --> <h2 align="center">12. &nbsp; CONTRIBUTION ACTIVITY</h2> <div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratapashanmukhi&bg_color=0D1117&color=94A3B8&line=64748B&point=C9D1D9&area=true&hide_border=true"/> </div>
+<!-- ===================== TROPHIES ======================== --> <h2 align="center">13. &nbsp; GITHUB TROPHIES</h2> <div align="center"> <img width="90%" src="https://github-profile-trophy.vercel.app/?username=pratapashanmukhi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6"/> </div>
+<!-- ===================== CONTRIBUTION SNAKE ============= --> <h2 align="center">14. &nbsp; CONTRIBUTION SNAKE</h2> <div align="center"> <img src="https://raw.githubusercontent.com/pratapashanmukhi/pratapashanmukhi/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> </div>
+<!-- ===================== CONNECT ========================= --> <h2 align="center">15. &nbsp; LET'S CONNECT</h2> <div align="center"> <a href="https://github.com/pratapashanmukhi"> <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/shanmukhi-pratapa-6a4484336"> <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:pratapashanumukhi@gmail.com"> <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br/><br/>
+
+Always learning. Always building. Always exploring.
+
+<br/>
+Thanks for visiting my little corner of GitHub! ♡
+<br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,50:26394B,100:080B12&height=120&section=footer"/> </div> ```
+
+
+
