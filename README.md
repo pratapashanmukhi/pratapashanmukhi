@@ -1,14 +1,14 @@
 <!-- Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=260&section=header&text=Pratapa%20Shanmukhi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:06B6D4,100:8B5CF6&height=260&section=header&text=Pratapa%20Shanmukhi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
 </p>
 
 <div align="center">
 
 # 👋 Hi, I'm Pratapa Shanmukhi
 
-### AI & Machine Learning Engineer • Backend Developer • Open Source Contributor
+### AI & Machine Learning Engineer •  Open Source Contributor
 
 <p>
 Building intelligent software, scalable backend systems, and practical AI solutions that solve real-world problems.
