@@ -170,7 +170,7 @@ I am passionate about developing intelligent applications and solving real-world
 
   <img src="https://github-readme-stats-fast.vercel.app/api?username=pratapashanmukhi&show_icons=true&bg_color=0D0E12&title_color=8898B4&text_color=9498A6&icon_color=8898B4&border_color=282A36&border_radius=8" alt="Shanmukhi's GitHub Stats" height="155" />
   &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pratapashanmukhi&layout=compact&bg_color=0D0E12&title_color=8898B4&text_color=9498A6&border_color=282A36&border_radius=8" alt="Shanmukhi's Top Languages" height="155" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=pratapashanmukhi&layout=compact&bg_color=0D0E12&title_color=8898B4&text_color=9498A6&border_color=282A36&border_radius=8" alt="Shanmukhi's Top Languages" height="155" />
 
   <br /><br />
 
