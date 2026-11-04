@@ -41,7 +41,7 @@ I am passionate about developing intelligent applications and solving real-world
 - ▹ **AI Agents & Workflows** — Autonomous multi-agent coordination, decision graphs, and state persistence
 - ▹ **Retrieval-Augmented Generation (RAG)** — Semantic document retrieval, dense vector embeddings, and reranking
 - ▹ **NLP & Computer Vision** — Sentiment classification, convolutional neural networks, and foliar pathology detection
-- ▹ **AI Application Development** — Asynchronous backends, full-stack integration, and low-latency APIs
+- ▹ **AI Application Development** — Asynchronous backends, full-stack integration, and low-latency APIs using AI Tools
 
 ---
 
